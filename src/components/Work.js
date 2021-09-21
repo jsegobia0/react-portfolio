@@ -5,7 +5,7 @@ function Work() {
     // All projects
   <div className="App-work">
 
-    <div class="row row-cols-2 row-cols-lg-5 g-2">
+    <div class="row g-2">
       <div class="card project-card col">
         <div class="card-header">
           <h2 class="card-title">Readme Generator</h2>
@@ -33,7 +33,7 @@ function Work() {
       </div>
     </div>
 
-    <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="row g-2">
       <div class="card project-card col">
         <div class="card-header">
           <h2 class="card-title">Project 4</h2>
@@ -57,7 +57,7 @@ function Work() {
       </div>
     </div>
 
-    <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="row g-2">
       <div class="card project-card col">
         <div class="card-header">
           <h2 class="card-title">Project 7</h2>
@@ -81,7 +81,7 @@ function Work() {
       </div>
     </div>
 
-    <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="row g-2">
       <div class="card project-card col">
         <div class="card-header">
           <h2 class="card-title">Project 10</h2>
