@@ -5,7 +5,7 @@ function Work() {
     // All projects
   <div className="App-work">
 
-    <div class="row row-cols-3 g-2">
+    <div class="row row-cols-2 row-cols-lg-5 g-2">
       <div class="card project-card col">
         <div class="card-header">
           <h2 class="card-title">Readme Generator</h2>
