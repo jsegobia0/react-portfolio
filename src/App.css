@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  background-image: url("godwin-angeline-benjo-mjBoXBuwbDQ-unsplash.jpg");
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-home {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+
+.App-about {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.App-work{
+  text-align: center;
+  padding-top: 2rem;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.App-contact {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h1 {
+  padding: 3rem
+}
+
+a.btn.btn-link {
+  padding: 5%;
+  font-size: calc(10px + 2vmin);
+}
+
+.card {
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 300px;
+  width: auto;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+  color: #0d6efd;
+}
+
+.card {
+  font-size: 22px;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+}
+
+.card-img-top {
+  background-size: 600px, 600px;
+  background-image: url(./godwin-angeline-benjo-mjBoXBuwbDQ-unsplash.jpg);
+}
